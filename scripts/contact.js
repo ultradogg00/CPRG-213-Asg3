@@ -3,7 +3,7 @@
 // hint: you can change the style of an element by modifying the value of that element's .style.fontSize, or by updating its .classList.
 
 function submit(){
-    document.getElementById('contact-page').innerHTML= '<p id="byeP">Thank you for message!</p>';
+    document.getElementById('contact-page').innerHTML= '<p id="byeP">Thank you for your message!</p>';
     document.getElementById('byeP').style.fontSize='24px';
     // document.getElementById('contact-page')
 }
